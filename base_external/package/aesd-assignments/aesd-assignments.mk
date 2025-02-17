@@ -4,7 +4,7 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-AESD_ASSIGNMENTS_VERSION = '5de44f45db4fb01bbb9c1983552cdbd31ea647d1'
+AESD_ASSIGNMENTS_VERSION = '42aaed4c6d698d46aac36a473944864ec6014bf9'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignment-5-Raj-097.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
